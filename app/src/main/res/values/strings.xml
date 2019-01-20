@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="tables">
+        <item>Basic</item>
+        <item>Personal</item>
+
+    </string-array>
+</resources>
